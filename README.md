@@ -1,11 +1,11 @@
 ## Hi, I'm Lis👋
 
-🫧 Computer Science and Design Student at THL
-🦢 Currently in sixth semester
-✨ I create modern, responsive Webdesign or just cool stuff I like
-🐚 Did projects in PHP, JS, Java, Python, Kotlin, HTML & CSS
-🪽 I am currently learning Kotlin and wanna learn more about cyber security
-🧚‍♀ My PC parts are: Powecolor Hellhound GPU
+🫧 Computer Science and Design Student at THL<br>
+🦢 Currently in sixth semester<br>
+✨ I create modern, responsive Webdesign or just cool stuff I like<br>
+🐚 Did projects in PHP, JS, Java, Python, Kotlin, HTML & CSS<br>
+🪽 I am currently learning Kotlin and wanna learn more about cyber security<br>
+🧚‍♀ My PC parts are: Powecolor Hellhound GPU<br>
 
 
 
